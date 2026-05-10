@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng",
+    "kategori": "Makanan",
+    "harga": 15000,
+    "stok": 50,
+    "emoji": "🍳"
+  },
+  {
+    "id": 2,
+    "nama": "Mie Ayam",
+    "kategori": "Makanan",
+    "harga": 13000,
+    "stok": 30,
+    "emoji": "🍜"
+  },
+  {
+    "id": 3,
+    "nama": "Es Teh",
+    "kategori": "Minuman",
+    "harga": 5000,
+    "stok": 100,
+    "emoji": "🧋"
+  },
+  {
+    "id": 4,
+    "nama": "Jus Alpukat",
+    "kategori": "Minuman",
+    "harga": 18000,
+    "stok": 20,
+    "emoji": "🥤"
+  },
+  {
+    "id": 5,
+    "nama": "Ayam Bakar",
+    "kategori": "Makanan",
+    "harga": 25000,
+    "stok": 15,
+    "emoji": "🍗"
+  },
+  {
+    "id": 6,
+    "nama": "Soto Ayam",
+    "kategori": "Makanan",
+    "harga": 12000,
+    "stok": 5,
+    "emoji": "🥣"
+  },
+  {
+    "id": 7,
+    "nama": "Kopi Hitam",
+    "kategori": "Minuman",
+    "harga": 8000,
+    "stok": 200,
+    "emoji": "☕"
+  },
+  {
+    "id": 8,
+    "nama": "Air Mineral",
+    "kategori": "Minuman",
+    "harga": 3000,
+    "stok": 0,
+    "emoji": "💧"
+  },
+  {
+    "id": 9,
+    "nama": "Kerupuk",
+    "kategori": "Snack",
+    "harga": 2000,
+    "stok": 999,
+    "emoji": "🥨"
+  }
+]
